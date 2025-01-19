@@ -43,7 +43,7 @@
 - Для проверки корректности настройки, разорвите один из кабелей между одним из маршрутизаторов и Switch0 и запустите ping между PC0 и Server0.
 - На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
 ![image](https://github.com/user-attachments/assets/867855c9-ef9d-4c21-8180-c212c5a8bf88)
-
+https://github.com/Timokhinvv/DZ10-01/blob/main/hsrp_advanced_zd1.pkt
 ------
 
 
