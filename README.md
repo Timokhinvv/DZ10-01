@@ -56,6 +56,7 @@ https://github.com/Timokhinvv/DZ10-01/blob/main/hsrp_advanced_zd1.pkt
 
 ![VirtualBox_Ubu2204_21_01_2025_23_39_23](https://github.com/user-attachments/assets/5c9c0cff-d0d1-4082-a1fc-6ac408c82501)
 
+
 ------
 
 ## Дополнительные задания со звёздочкой*
