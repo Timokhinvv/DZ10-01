@@ -55,7 +55,7 @@ https://github.com/Timokhinvv/DZ10-01/blob/main/hsrp_advanced_zd1.pkt
 - На проверку отправьте получившейся bash-скрипт и конфигурационный файл keepalived, а также скриншот с демонстрацией переезда плавающего ip на другой сервер в случае недоступности порта или файла index.html
 
 ![VirtualBox_Ubu2204_21_01_2025_23_39_23](https://github.com/user-attachments/assets/5c9c0cff-d0d1-4082-a1fc-6ac408c82501)
-keepalived.conf
+[keepalived.conf](https://github.com/Timokhinvv/DZ10-01/blob/main/keepalived.conf)
 nginx_recovery.sh
 
 ------
