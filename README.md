@@ -44,6 +44,7 @@
 - На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
 
 ![Снимок01](https://github.com/user-attachments/assets/bdf82199-ea59-47f8-b8a7-0aef84d0296c)
+![Снимок02](https://github.com/user-attachments/assets/ed5e39d7-b3af-46a4-8347-0eb957da23eb)
 
 https://github.com/Timokhinvv/DZ10-01/blob/main/hsrp_advanced_DZ1.pkt
 
