@@ -63,6 +63,10 @@ https://github.com/Timokhinvv/DZ10-01/blob/main/hsrp_advanced_DZ1.pkt
 [nginx_recovery.sh](https://github.com/Timokhinvv/DZ10-01/blob/main/nginx_recovery.sh)
 ![VirtualBox_Ubu2204_30_01_2025_23_24_32](https://github.com/user-attachments/assets/312b2e2b-eda9-45c4-86ef-3b1f2f8f8370)
 ![VirtualBox_Ubu2204_30_01_2025_23_28_16](https://github.com/user-attachments/assets/feb855cb-daad-4f17-a639-d98370ac5af0)
+![VirtualBox_Ubu2204_30_01_2025_23_34_15](https://github.com/user-attachments/assets/fecd1f09-bbde-4614-b9b2-2efca0b22e11)
+![VirtualBox_Ubu2204_30_01_2025_23_40_08](https://github.com/user-attachments/assets/15562720-2b69-4137-9110-af8378aa4175)
+![VirtualBox_Ubu2204_30_01_2025_23_47_05](https://github.com/user-attachments/assets/7348b1b3-bd67-4aaa-94e8-599ce7299bd7)
+![VirtualBox_Ubu2204_30_01_2025_23_50_33](https://github.com/user-attachments/assets/10f4b2f0-4f2f-48a0-9940-f9ee319a4482)
 
 ------
 
