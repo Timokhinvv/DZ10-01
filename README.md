@@ -67,6 +67,12 @@ https://github.com/Timokhinvv/DZ10-01/blob/main/hsrp_advanced_DZ1.pkt
 ![VirtualBox_Ubu2204_30_01_2025_23_40_08](https://github.com/user-attachments/assets/15562720-2b69-4137-9110-af8378aa4175)
 ![VirtualBox_Ubu2204_30_01_2025_23_47_05](https://github.com/user-attachments/assets/7348b1b3-bd67-4aaa-94e8-599ce7299bd7)
 ![VirtualBox_Ubu2204_30_01_2025_23_50_33](https://github.com/user-attachments/assets/10f4b2f0-4f2f-48a0-9940-f9ee319a4482)
+![VirtualBox_Клон Ubu2204_30_01_2025_23_32_37](https://github.com/user-attachments/assets/0e0f260b-7d01-472f-90df-dad9327be12b)
+![VirtualBox_Клон Ubu2204_30_01_2025_23_35_17](https://github.com/user-attachments/assets/5c617739-3d47-48ee-a393-f76c9cbb1827)
+![VirtualBox_Клон Ubu2204_30_01_2025_23_43_59](https://github.com/user-attachments/assets/83c539b2-8153-4a7c-bb7c-60ae57f21877)
+![VirtualBox_Клон Ubu2204_30_01_2025_23_48_03](https://github.com/user-attachments/assets/ca098637-ca75-487f-aa98-5f3d3b53fbe0)
+![VirtualBox_Клон Ubu2204_30_01_2025_23_51_50](https://github.com/user-attachments/assets/a262fa6d-339a-492e-9a4e-b64572935a11)
+![VirtualBox_Клон Ubu2204_30_01_2025_23_53_56](https://github.com/user-attachments/assets/97c5a3a3-9b45-4f96-89ab-06ad4d0a01a5)
 
 ------
 
