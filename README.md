@@ -62,6 +62,7 @@ https://github.com/Timokhinvv/DZ10-01/blob/main/hsrp_advanced_DZ1.pkt
 [keepalived.conf](https://github.com/Timokhinvv/DZ10-01/blob/main/keepalived.conf)
 [nginx_recovery.sh](https://github.com/Timokhinvv/DZ10-01/blob/main/nginx_recovery.sh)
 ![VirtualBox_Ubu2204_30_01_2025_23_24_32](https://github.com/user-attachments/assets/312b2e2b-eda9-45c4-86ef-3b1f2f8f8370)
+![VirtualBox_Ubu2204_30_01_2025_23_28_16](https://github.com/user-attachments/assets/feb855cb-daad-4f17-a639-d98370ac5af0)
 
 ------
 
