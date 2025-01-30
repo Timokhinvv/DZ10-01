@@ -73,6 +73,8 @@ https://github.com/Timokhinvv/DZ10-01/blob/main/hsrp_advanced_DZ1.pkt
 ![VirtualBox_Клон Ubu2204_30_01_2025_23_48_03](https://github.com/user-attachments/assets/ca098637-ca75-487f-aa98-5f3d3b53fbe0)
 ![VirtualBox_Клон Ubu2204_30_01_2025_23_51_50](https://github.com/user-attachments/assets/a262fa6d-339a-492e-9a4e-b64572935a11)
 ![VirtualBox_Клон Ubu2204_30_01_2025_23_53_56](https://github.com/user-attachments/assets/97c5a3a3-9b45-4f96-89ab-06ad4d0a01a5)
+![VirtualBox_Ubu2204_31_01_2025_00_14_17](https://github.com/user-attachments/assets/b26c254a-be48-4f76-860f-6e0f2caef8c6)
+![VirtualBox_Клон Ubu2204_31_01_2025_00_16_04](https://github.com/user-attachments/assets/10ea6def-6637-4038-944d-db88946fdbeb)
 
 ------
 
